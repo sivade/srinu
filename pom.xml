@@ -110,10 +110,8 @@
                
          <plugin>
            <artifactId>maven-war-plugin</artifactId>
-            <version>2.2</version>
-             <packaging>maven-plugin</packaging>
-              <name>Maven WAR Plugin</name>
-               </plugin>
+           <version>2.2</version>
+           </plugin>
 
         <plugin>
           <artifactId>maven-jxr-plugin</artifactId>
